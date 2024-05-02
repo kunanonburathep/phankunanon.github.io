@@ -1,1 +1,0 @@
-This blog will be available soon.

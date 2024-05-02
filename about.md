@@ -12,7 +12,7 @@ My research interests are graph algorithms, approximation algorithms, and learni
 
 personal email: k.burathep (at) gmail.com,
 
-for academic reason: kunanon.bur (at) ku.th
+for academic reason: kunanon.bur (at) ku.th (this might be changed to durham domain very soon)
 
 [![](/assets/img/blackandwhite_darkgrey_instagram_icon.png){: width="35"}][ig]
 
@@ -20,8 +20,8 @@ for academic reason: kunanon.bur (at) ku.th
 
 ## Education
 
-[//]: - [xx][dur], Ph.D. in Computer Science, Fall 2024 - Current.
-[//]:  - Advisor: xxx
+- [Durham University][dur], Ph.D. in Computer Science, (start this) October 2024 - Currently.
+  - Advisor: Thomas Erlebach
 
 - [Kasetsart University][ku], M.Eng. in Computer Engineering, August 2020 - August 2022.
   - Advisor: Jittat Fakcharoenphol
@@ -55,5 +55,6 @@ For more updated see, [![](/assets/img/googlescholar.svg){: width="25"}][scholar
 [pub: JCSSE2022]: https://ieeexplore.ieee.org/document/9836254
 [pub: ICSEC2020]: https://ieeexplore.ieee.org/document/9375178
 
+[dur]: https://en.wikipedia.org/wiki/Durham_University
 [ku]: https://en.wikipedia.org/wiki/Kasetsart_University
 [ryw]: https://en.wikipedia.org/wiki/Rayongwittayakom_School
