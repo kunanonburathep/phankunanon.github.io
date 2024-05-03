@@ -41,6 +41,7 @@ disqus:
 # --------------
 
 timezone: Asia/Bangkok
+paginate: 10
 mathjax:  true
 
 
@@ -52,6 +53,7 @@ mathjax:  true
 # you shouldn't change this unless you really know what you're doing.
 
 permalink: date
+paginate_path: "/posts/page:num"
 
 collections:
   projects:
@@ -81,12 +83,6 @@ defaults:
     values:
       layout: doc
 
-pagination:
-  enabled: true
-  per_page: 10
-  sort_reverse: true
-  permalink: /page:num.html
-
 sass:
   sass_dir: "_sass/"
   style: compressed
@@ -98,6 +94,6 @@ exclude:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 empty_array: []
