@@ -22,8 +22,9 @@ rights: All Right Reserved
 # ----------------
 
 google:
-  analytics:
+  analytics: 
   verification:
+  measurement: G-GV0S05TSDS
 
 facebook:
   username:
