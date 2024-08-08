@@ -12,7 +12,7 @@ My research interests are graph algorithms, approximation algorithms, and learni
 
 personal email: k.burathep (at) gmail.com,
 
-for academic reason: kunanon.bur (at) ku.th (this might be changed to durham domain very soon)
+for academic reason: kunanon.burathep (at) durham.ac.uk
 
 [![](/assets/img/blackandwhite_darkgrey_instagram_icon.png){: width="35"}][ig]
 
@@ -20,7 +20,7 @@ for academic reason: kunanon.bur (at) ku.th (this might be changed to durham dom
 
 ## Education
 
-- [Durham University][dur], Ph.D. in Computer Science, (start this) October 2024 - Currently.
+- [Durham University][dur], Ph.D. in Computer Science, October 2024 - Currently.
   - Advisor: Thomas Erlebach
 
 - [Kasetsart University][ku], M.Eng. in Computer Engineering, August 2020 - August 2022.
@@ -45,7 +45,7 @@ for academic reason: kunanon.bur (at) ku.th (this might be changed to durham dom
 For more updated see, [![](/assets/img/googlescholar.svg){: width="25"}][scholar]
 
 **Personal**
-- Gamer: CS2, Valorant, Genshin Impact, and more in offline RPGs and Rhythm games.
+- Gamer: CS2, Valorant, Zenless Zone Zero, Genshin Impact, and more RPGs and Rhythm games.
 - Archery: Olympic Recurve on 18m, 30m, and (Currently practising)70m.
 - Favourite music genre: K-Pop (Wendy Red Velvet, Le Sserafim, etc.)
 
