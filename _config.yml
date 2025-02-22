@@ -5,8 +5,8 @@
 # Identity
 # --------
 
-title: Welcome to Phanku's cave      
-description: Everyone who enters this cave will explore who the owner is.
+title: Kunanon Burathep      
+description: 
 
 logo:  "/assets/img/phanku-logo.png"   #TODO 256x256
 cover: "/assets/img/phanku-cover.png"   #TODO 1200x630
@@ -41,7 +41,7 @@ disqus:
 # Content Format
 # --------------
 
-timezone: Asia/Bangkok
+timezone: London/UK
 paginate: 10
 mathjax:  true
 

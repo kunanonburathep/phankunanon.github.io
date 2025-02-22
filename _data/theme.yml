@@ -16,10 +16,12 @@ date:
 #TODO you may change navigation behavior here.
 navigation:
   menu:
-    - name: Posts
-      path: "/posts"
-    - name: About
+    - name: Home
+      path: "/index"
+    - name: CV
       path: "/about"
+    - name: My Blog
+      path: "/posts"
   paginate:
     older: right
 
