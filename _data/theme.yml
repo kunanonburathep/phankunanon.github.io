@@ -19,7 +19,7 @@ navigation:
     - name: Home
       path: "/index"
     - name: CV
-      path: "/about"
+      path: "/cv"
     - name: My Blog
       path: "/posts"
   paginate:

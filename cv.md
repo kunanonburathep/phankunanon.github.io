@@ -1,5 +1,5 @@
 ---
-title:
+title: Kunanon's CV
 ---
 
 ### Education

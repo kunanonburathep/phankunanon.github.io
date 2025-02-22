@@ -41,7 +41,7 @@ disqus:
 # Content Format
 # --------------
 
-timezone: London/UK
+timezone: Asia/Bangkok
 paginate: 10
 mathjax:  true
 
