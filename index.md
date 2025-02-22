@@ -17,4 +17,4 @@
 
 <b>Research Interest:</b> Online Algorithms with Predictions, Approximation Algorithms
 
-Outside of academia, I am a passionate gamer, primarily playing FPS games with friends, as well as action RPGs and rhythm games. I am also an Olympic recurve archer, shooting at 18, 30, and 70 meters. Additionally, I am a K-pop fan and a big fan of <a href="https://www.instagram.com/todayis_wendy/">Wendy</a> from <a href="https://www.instagram.com/p/DGTILvuSe5L/">Red Velvet</a>.
+Outside of academia, I am a passionate gamer, primarily playing FPS games with friends, as well as action RPGs and rhythm games. I am also a recurve archer, shooting at 18, 30, and 70 meters. Additionally, I am a K-pop fan and a big fan of <a href="https://www.instagram.com/todayis_wendy/">Wendy</a> from <a href="https://www.instagram.com/p/DGTILvuSe5L/">Red Velvet</a>.
