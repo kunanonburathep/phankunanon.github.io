@@ -17,10 +17,6 @@
   - Supervisor: Assoc. Prof. Jittat Fakcharoenphol
   - Senior Project: Constructing k-connected m-dominating set in a wireless ad-hoc network
 
-### Research Interest
-- Learning-Augmented Algorithms, specifically on Online Algorithms with Predictions
-- Approximation Algorithms
-
 ### Experience
 - Jan 2025 - Present: Durham University, Demonstrator and Marker for Algorithms and Data Structures.
 - 2018 - 2022: Kasetsart University, Teaching Assistant for Discrete Mathematics, Algorithms and Data Structures.
